@@ -54,14 +54,4 @@ The main sections are:
 - Webcam Testing
   - Real-time detection on webcam
 
-
-## File Structure
-
-├── images/
-├── labels/
-├── logs/
-├── models/
-├── face_tracking.ipynb
-├── requirements.txt
-└── README.md
 Thank you!
