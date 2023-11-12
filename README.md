@@ -56,3 +56,11 @@ The main sections are:
 
 
 ## File Structure
+
+├── images/
+├── labels/
+├── logs/
+├── models/
+├── face_tracking.ipynb
+├── requirements.txt
+└── README.md
